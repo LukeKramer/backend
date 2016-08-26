@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - loanDB@localhost" uuid="bcc34cd2-f9b9-4989-a3b9-da88d739b60f">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+      <schema id="1" name="loanDB">
+        <visible>1</visible>
+      </schema>
+      <schema id="2" name="bitnami_wordpress"/>
+      <schema id="3" name="information_schema"/>
+      <schema id="4" name="mysql"/>
+      <schema id="5" name="performance_schema"/>
+      <schema id="6" name="phpmyadmin"/>
+      <schema id="7" name="test"/>
+    </database-model>
+  </data-source>
+</component>
